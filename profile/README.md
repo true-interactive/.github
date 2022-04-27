@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-**Tru Interactive **is about unifying and expanding the services in the blockchain / web3 world.
+**True Interactive** is about unifying and expanding the services in the blockchain / web3 world.
 
 # Sum of its Parts
 
