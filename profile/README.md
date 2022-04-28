@@ -10,7 +10,7 @@
 
 ## Bazaar
 
-NFT marketplace only caters to different items that are designed and created by independent artists. Consumers visiting can purchase these can purchase articles of clothing and animation emotes that independent designers created. Tru Interactive will use this platform to encourage artists to contribute 3d models and textures. This will only show items for sale that are usable within the multiverse and designed by Tru Interactive or independent designers.
+NFT marketplace only caters to different items that are designed and created by independent artists. Consumers visiting can purchase these can purchase articles of clothing and animation emotes that independent designers created. Tru Interactive will use this platform to encourage artists to contribute 3d models and textures. This will only show items for sale that are usable within the multiverse and designed by True Interactive or independent designers.
 
 ## Event Maangement
 
